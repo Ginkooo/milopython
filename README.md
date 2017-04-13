@@ -4,6 +4,7 @@ Usage
 git clone https://github.com/ginkooo/milopython
 cd milopython
 `./date.py inputfile` or `python date.py inputfile`
+
 How to test
 ==========
 
